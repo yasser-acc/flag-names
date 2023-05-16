@@ -9,8 +9,8 @@ Here are some screenshots from different pages of the Flage Names Quiz App:
   <img src="screenshots/NavigationActivity.png" width="200" />
   <img src="screenshots/QuestionsActivity.png" width="200" />
   <img src="screenshots/ResultsActivitySuccess.png" width="200" />
-  <img src="screenshots/ResultsActivityFailure.png" width="200" />
 </p>
+<p align="center"><img src="screenshots/ResultsActivityFailure.png" width="200" /></p>
 
 ## Description
 

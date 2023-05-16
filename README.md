@@ -1,5 +1,17 @@
 # Flage Names Quiz App
 
+## Screenshots
+
+Here are some screenshots from different pages of the Flage Names Quiz App:
+
+<p float="left">
+  <img src="screenshots/MainActivity.png" width="200" />
+  <img src="screenshots/NavigationActivity.png" width="200" />
+  <img src="screenshots/QuestionsActivity.png" width="200" />
+  <img src="screenshots/ResultsActivitySuccess.png" width="200" />
+  <img src="screenshots/ResultsActivityFailure.png" width="200" />
+</p>
+
 ## Description
 
 Flage Names is a Kotlin quiz app that tests your knowledge of country flags. It presents you with flag images and multiple-choice questions to guess the corresponding country name. The app aims to provide an interactive and enjoyable way to learn and test your knowledge of flags from around the world.
